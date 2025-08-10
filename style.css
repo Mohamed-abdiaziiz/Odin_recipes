@@ -1,0 +1,23 @@
+
+*{
+    margin:0;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+body{
+    background-color:alice-blue;
+    display:flex;
+    justify-content:center;
+    padding:20px;
+}
+
+.container{
+    width:400px;
+    background-color:rgb(70, 70, 231);
+    padding:20px;
+}
+.container h1{
+    text-align:center;
+    color:white;
+}
